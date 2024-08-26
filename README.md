@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Backend Developer
 -----------------
+I'm currently studying computer engineering and at the same time I've been trying to learn new technologies
 
 * 🌍  I'm based in Brazil
 * 🧠  I'm learning Java and its ecosystem
