@@ -1,10 +1,10 @@
 
-Backend Developer
+Frontend Developer
 -----------------
 I'm currently studying computer engineering and at the same time I've been trying to learn new technologies
 
 * 🌍  I'm based in Brazil
-* 🧠  I'm learning Java and its ecosystem
+* 🧠  I'm learning HTML,CSS and JavaScript
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Anything is possible
 
