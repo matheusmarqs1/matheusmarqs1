@@ -1,12 +1,7 @@
 
-Frontend Developer
+Matheus Teles
 -----------------
-I'm currently studying computer engineering and at the same time I've been trying to learn new technologies
-
-* 🌍  I'm based in Brazil
-* 🧠  I'm learning HTML,CSS and JavaScript
-* 🤝  I'm open to collaborating on Projects
-* ⚡  Anything is possible
+Computer Engineering student chasing the goal of becoming a full stack developer. Currently, I’m focused on learning HTML, CSS, and JavaScript to build a strong foundation for creating complete and innovative projects. I’m driven by the challenge of solving problems and delivering efficient, user-friendly solutions.
 
 ### Skills
 
