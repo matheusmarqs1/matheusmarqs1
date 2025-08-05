@@ -1,7 +1,10 @@
 
 Matheus Teles
 -----------------
-Computer Engineering student chasing the goal of becoming a full stack developer. Currently, I'm focused on learning Java with Spring and other technologies from its ecosystem to build a strong foundation for creating complete and innovative projects. I'm driven by the challenge of solving problems and delivering efficient, user-friendly solutions.
+I'm a Computer Engineering student passionate about web development and problem-solving.  
+Currently diving deep into Java and the Spring ecosystem to build robust and scalable backend applications.  
+I enjoy turning ideas into code and learning by building real-world projects.  
+Always open to collaboration and new challenges!
 
 ### Skills
 
