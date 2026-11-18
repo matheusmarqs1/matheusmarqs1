@@ -3,9 +3,9 @@ Matheus Teles
 -----------------
 Computer Engineering student at UFG, focused on backend development with Java and Spring Boot.
 
-I work as a QA Intern at MetaPrime, validating ERP modules (billing, finance, purchasing and inventory) and running an AI-assisted testing workflow: agents draft test scripts, execute them and collect evidence, and I review every result.
+I work as a QA Intern at MetaPrime, validating ERP modules (billing, finance, purchasing and inventory) and operating and refining an AI-assisted testing workflow: I define the criteria from the task and the code, review every test script and validate the evidence.
 
-On the backend side, I build REST APIs with Spring Boot, PostgreSQL and Docker. My most recent project, Study Slot, is a study room reservation API where I'm working through migrations, business rules, concurrency and testing.
+I build REST APIs with Java, Spring Boot, PostgreSQL and Docker, with a focus on data modeling, security and automated testing.
 
 Previously, I did research in autonomous robotics at CERISE/UFG, using ROS 2, Python and Gazebo.
 
